@@ -3,9 +3,6 @@ import random
 
 class Hash:
 
-    def randomizer(self):
-        self.salt = random.uniform(0.1, 0.5)
-        return 0.1026702263487171
 
     def randomizer(self):
         return self.salt
