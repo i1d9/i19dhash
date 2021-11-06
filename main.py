@@ -1,6 +1,5 @@
 import random
 
-
 class Hash:
 
 
